@@ -13,7 +13,13 @@
 - 📫 Reach me at: **krishna.solanki.cg@gmail.com**
 
 ---
+## 🤝 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-solanki-55478839a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://krishnasolankiportfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishna.solanki.cg@gmail.com)
+
+---
 ## 🛠️ Tech Stack
 
 **Languages:**
@@ -51,19 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishnasolanki5383&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnasolanki5383&layout=compact&theme=default&hide_border=true)
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-solanki-55478839a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://krishnasolankiportfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishna.solanki.cg@gmail.com)
 
 ---
 
