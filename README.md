@@ -2,6 +2,14 @@
 
 ### Full-Stack Developer | React • Node.js • MongoDB
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Krishnasolanki5383&color=00FFB3&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Krishnasolanki5383?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/Krishnasolanki5383?tab=followers)
+
+<br/>
+
 ---
 
 ## 🙋‍♂️ About Me
@@ -20,6 +28,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishna.solanki.cg@gmail.com)
 
 ---
+
 ## 🛠️ Tech Stack
 
 **Languages:**
