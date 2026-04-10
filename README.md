@@ -47,17 +47,4 @@
 
 ---
 
-## 🚀 Projects
-
-| Project | Tech | Live |
-|--------|------|------|
-| Full-Stack Web App 1 | React, Node.js, Express, MongoDB | [Live Demo](https://illustrious-bonbon-b2a4dd.netlify.app/) |
-| Frontend Web App 2 | React, Tailwind CSS, REST APIs | [Live Demo](https://charming-vacherin-c87cc3.netlify.app/) |
-| Full-Stack Web App 3 | React, Node.js, Express, MongoDB | [Live Demo](https://deft-frangipane-01e606.netlify.app/) |
-
----
-
-
----
-
 ⭐ *Feel free to explore my repositories and drop a star if you find something useful!*
