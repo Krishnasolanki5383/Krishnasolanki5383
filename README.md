@@ -56,5 +56,22 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
+## 📊 GitHub Stats
 
-⭐ *Feel free to explore my repositories and drop a star if you find something useful!*
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishnasolanki5383&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishnasolanki5383&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krishnasolanki5383&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishnasolanki5383&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>⭐ *Feel free to explore my repositories and drop a star if you find something useful!*
